@@ -164,7 +164,7 @@ log_file_processing: True  # Be careful with sensitive data
 ### Performance Optimization
 - Adjust `max_image_size` for faster processing
 - Lower `image_quality` for smaller uploads
-- Use `gemini-1.5-flash` for faster responses
+- Use `gemini-2.5-flash` for faster responses
 
 ## 🔒 Security Considerations
 
