@@ -1,6 +1,6 @@
 """
 title: Universal Vision and Document Pipeline with Gemini
-author: Kilo Code & Gemini AI Assistant
+author: Catomaton
 date: 2025-07-28
 version: 1.2
 license: MIT
